@@ -1,0 +1,9 @@
+﻿  figuri.c
+C:\GitHubProjects\TraningRepository\programExE\programExE\figuri.c(9,10): warning C4305: =: усечение из "double" в "float"
+C:\GitHubProjects\TraningRepository\programExE\programExE\figuri.c(25,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\GitHubProjects\TraningRepository\programExE\programExE\figuri.c(26,11): warning C4477: "printf": в строке форматирования "%f" требуется аргумент типа "double", но вариативный аргумент "1" имеет тип "int"
+C:\GitHubProjects\TraningRepository\programExE\programExE\figuri.c(47,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\GitHubProjects\TraningRepository\programExE\programExE\figuri.c(50,8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\GitHubProjects\TraningRepository\programExE\programExE\figuri.c(66,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\GitHubProjects\TraningRepository\programExE\programExE\figuri.c(72,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  programExE.vcxproj -> C:\GitHubProjects\TraningRepository\programExE\x64\Debug\programExE.exe
